@@ -1,3 +1,3 @@
-# LineFollower
+# Line Follower Robot
 
-Design and implementation of a "line follower robot" using the ARM Cortex M3 processor. Controlling program is written in x86 assembly language.
+In this project, I've designed and implemented the controlling program for a "line follower robot". The code has been written in x86 assembly language and imlemented on an ARM Cortex M3 Microprocessor.
